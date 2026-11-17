@@ -1,0 +1,299 @@
+[
+  {
+    "id": "audit_1794847007731",
+    "action": "USER_LOGIN",
+    "actorId": "usr_mfg_1",
+    "actorName": "Apex BioPharma Labs",
+    "actorRole": "manufacturer",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:36:47.732Z"
+  },
+  {
+    "id": "audit_1794847007939",
+    "action": "PRODUCT_REGISTERED",
+    "actorId": "usr_mfg_1",
+    "actorName": "Apex BioPharma Labs",
+    "actorRole": "manufacturer",
+    "details": "Product PRD-E2E-7736 registered on blockchain with hash 0x79bd55acd7555c1925f54c400a1a97f091887ff5c927e163983a1e0713f4c0d9",
+    "timestamp": "2026-11-16T16:36:47.939Z"
+  },
+  {
+    "id": "audit_1794847008272",
+    "action": "USER_LOGIN",
+    "actorId": "usr_dist_1",
+    "actorName": "SwiftLogix Global Freight",
+    "actorRole": "distributor",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:36:48.272Z"
+  },
+  {
+    "id": "audit_1794847008486",
+    "action": "USER_LOGIN",
+    "actorId": "usr_ret_1",
+    "actorName": "CareWell Metro Pharmacy",
+    "actorRole": "retailer",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:36:48.486Z"
+  },
+  {
+    "id": "audit_1794847061884",
+    "action": "USER_LOGIN",
+    "actorId": "usr_mfg_1",
+    "actorName": "Apex BioPharma Labs",
+    "actorRole": "manufacturer",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:37:41.884Z"
+  },
+  {
+    "id": "audit_1794847078007",
+    "action": "USER_LOGIN",
+    "actorId": "usr_ret_1",
+    "actorName": "CareWell Metro Pharmacy",
+    "actorRole": "retailer",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:37:58.007Z"
+  },
+  {
+    "id": "audit_1794847127249",
+    "action": "USER_LOGIN",
+    "actorId": "usr_mfg_1",
+    "actorName": "Apex BioPharma Labs",
+    "actorRole": "manufacturer",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:38:47.250Z"
+  },
+  {
+    "id": "audit_1794847127445",
+    "action": "PRODUCT_REGISTERED",
+    "actorId": "usr_mfg_1",
+    "actorName": "Apex BioPharma Labs",
+    "actorRole": "manufacturer",
+    "details": "Product PRD-E2E-7254 registered on blockchain with hash 0x7b67fc44ab9dd861d67f28a19ea51000f8ca6e07e7991a58661cbbf3ee410d2d",
+    "timestamp": "2026-11-16T16:38:47.445Z"
+  },
+  {
+    "id": "audit_1794847127773",
+    "action": "USER_LOGIN",
+    "actorId": "usr_dist_1",
+    "actorName": "SwiftLogix Global Freight",
+    "actorRole": "distributor",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:38:47.773Z"
+  },
+  {
+    "id": "audit_1794847127988",
+    "action": "USER_LOGIN",
+    "actorId": "usr_ret_1",
+    "actorName": "CareWell Metro Pharmacy",
+    "actorRole": "retailer",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:38:47.988Z"
+  },
+  {
+    "id": "audit_1794847148371",
+    "action": "USER_LOGIN",
+    "actorId": "usr_ret_1",
+    "actorName": "CareWell Metro Pharmacy",
+    "actorRole": "retailer",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:39:08.371Z"
+  },
+  {
+    "id": "audit_1794847173119",
+    "action": "USER_LOGIN",
+    "actorId": "usr_mfg_1",
+    "actorName": "Apex BioPharma Labs",
+    "actorRole": "manufacturer",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:39:33.119Z"
+  },
+  {
+    "id": "audit_1794847173257",
+    "action": "PRODUCT_REGISTERED",
+    "actorId": "usr_mfg_1",
+    "actorName": "Apex BioPharma Labs",
+    "actorRole": "manufacturer",
+    "details": "Product PRD-E2E-3121 registered on blockchain with hash 0xd7541b625bc82ddee962d19db92171485a6909438adf110759af314600c82245",
+    "timestamp": "2026-11-16T16:39:33.257Z"
+  },
+  {
+    "id": "audit_1794847173523",
+    "action": "USER_LOGIN",
+    "actorId": "usr_dist_1",
+    "actorName": "SwiftLogix Global Freight",
+    "actorRole": "distributor",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:39:33.523Z"
+  },
+  {
+    "id": "audit_1794847173742",
+    "action": "USER_LOGIN",
+    "actorId": "usr_ret_1",
+    "actorName": "CareWell Metro Pharmacy",
+    "actorRole": "retailer",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:39:33.743Z"
+  },
+  {
+    "id": "audit_1794847223365",
+    "action": "USER_LOGIN",
+    "actorId": "usr_mfg_1",
+    "actorName": "Apex BioPharma Labs",
+    "actorRole": "manufacturer",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:40:23.365Z"
+  },
+  {
+    "id": "audit_1794847223619",
+    "action": "PRODUCT_REGISTERED",
+    "actorId": "usr_mfg_1",
+    "actorName": "Apex BioPharma Labs",
+    "actorRole": "manufacturer",
+    "details": "Product PRD-E2E-3372 registered on blockchain with hash 0x0e3ea77d49b4d1097fbfac79466b0430d86a3f148dde5a8c3e85eb19b2d2304a",
+    "timestamp": "2026-11-16T16:40:23.619Z"
+  },
+  {
+    "id": "audit_1794847223976",
+    "action": "USER_LOGIN",
+    "actorId": "usr_dist_1",
+    "actorName": "SwiftLogix Global Freight",
+    "actorRole": "distributor",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:40:23.976Z"
+  },
+  {
+    "id": "audit_1794847224223",
+    "action": "USER_LOGIN",
+    "actorId": "usr_ret_1",
+    "actorName": "CareWell Metro Pharmacy",
+    "actorRole": "retailer",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:40:24.223Z"
+  },
+  {
+    "id": "audit_1794847290113",
+    "action": "USER_LOGIN",
+    "actorId": "usr_mfg_1",
+    "actorName": "Apex BioPharma Labs",
+    "actorRole": "manufacturer",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:41:30.114Z"
+  },
+  {
+    "id": "audit_1794847290339",
+    "action": "PRODUCT_REGISTERED",
+    "actorId": "usr_mfg_1",
+    "actorName": "Apex BioPharma Labs",
+    "actorRole": "manufacturer",
+    "details": "Product PRD-E2E-0119 registered on blockchain with hash 0xe4c9c405f25fec38a69d59b654b0eb6dc98e8790b4622753605af8203a905512",
+    "timestamp": "2026-11-16T16:41:30.339Z"
+  },
+  {
+    "id": "audit_1794847290680",
+    "action": "USER_LOGIN",
+    "actorId": "usr_dist_1",
+    "actorName": "SwiftLogix Global Freight",
+    "actorRole": "distributor",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:41:30.680Z"
+  },
+  {
+    "id": "audit_1794847290894",
+    "action": "USER_LOGIN",
+    "actorId": "usr_ret_1",
+    "actorName": "CareWell Metro Pharmacy",
+    "actorRole": "retailer",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:41:30.894Z"
+  },
+  {
+    "id": "audit_1794847344026",
+    "action": "USER_LOGIN",
+    "actorId": "usr_mfg_1",
+    "actorName": "Apex BioPharma Labs",
+    "actorRole": "manufacturer",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:42:24.026Z"
+  },
+  {
+    "id": "audit_1794847344242",
+    "action": "PRODUCT_REGISTERED",
+    "actorId": "usr_mfg_1",
+    "actorName": "Apex BioPharma Labs",
+    "actorRole": "manufacturer",
+    "details": "Product PRD-E2E-4031 registered on blockchain with hash 0xc9a46de0d6fd1d00c2aa3d60ed05ad8ac6135035f84375647598ff13edd5546a",
+    "timestamp": "2026-11-16T16:42:24.242Z"
+  },
+  {
+    "id": "audit_1794847344613",
+    "action": "USER_LOGIN",
+    "actorId": "usr_dist_1",
+    "actorName": "SwiftLogix Global Freight",
+    "actorRole": "distributor",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:42:24.613Z"
+  },
+  {
+    "id": "audit_1794847344832",
+    "action": "USER_LOGIN",
+    "actorId": "usr_ret_1",
+    "actorName": "CareWell Metro Pharmacy",
+    "actorRole": "retailer",
+    "details": "User logged in from ::1",
+    "timestamp": "2026-11-16T16:42:24.832Z"
+  },
+  {
+    "id": "audit_1794889747427",
+    "action": "USER_LOGIN",
+    "actorId": "usr_admin_1",
+    "actorName": "Arthur Pendelton",
+    "actorRole": "admin",
+    "details": "User logged in from 127.0.0.1",
+    "timestamp": "2026-11-17T04:29:07.428Z"
+  },
+  {
+    "id": "audit_1794889747552",
+    "action": "USER_LOGIN",
+    "actorId": "usr_mfg_1",
+    "actorName": "Apex BioPharma Labs",
+    "actorRole": "manufacturer",
+    "details": "User logged in from 127.0.0.1",
+    "timestamp": "2026-11-17T04:29:07.552Z"
+  },
+  {
+    "id": "audit_1794889747680",
+    "action": "USER_LOGIN",
+    "actorId": "usr_dist_1",
+    "actorName": "SwiftLogix Global Freight",
+    "actorRole": "distributor",
+    "details": "User logged in from 127.0.0.1",
+    "timestamp": "2026-11-17T04:29:07.680Z"
+  },
+  {
+    "id": "audit_1794889747826",
+    "action": "USER_LOGIN",
+    "actorId": "usr_ret_1",
+    "actorName": "CareWell Metro Pharmacy",
+    "actorRole": "retailer",
+    "details": "User logged in from 127.0.0.1",
+    "timestamp": "2026-11-17T04:29:07.826Z"
+  },
+  {
+    "id": "audit_1794889748065",
+    "action": "PRODUCT_REGISTERED",
+    "actorId": "usr_mfg_1",
+    "actorName": "Apex BioPharma Labs",
+    "actorRole": "manufacturer",
+    "details": "Product PRD-LIVE-7829 registered on blockchain with hash 0xab692aad5b1fb47b486aaff6684c66a8778d2ed9f170ef098d70bc5e42222d08",
+    "timestamp": "2026-11-17T04:29:08.065Z"
+  },
+  {
+    "id": "audit_1794889810172",
+    "action": "USER_LOGIN",
+    "actorId": "usr_admin_1",
+    "actorName": "Arthur Pendelton",
+    "actorRole": "admin",
+    "details": "User logged in from 127.0.0.1",
+    "timestamp": "2026-11-17T04:30:10.172Z"
+  }
+]

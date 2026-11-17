@@ -1,0 +1,20 @@
+{
+  "name": "chaintrace-blockchain",
+  "version": "1.0.0",
+  "description": "Hardhat blockchain module for ChainTrace Supply Chain",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "ethers": "^6.13.0",
+    "hardhat": "^2.22.0"
+  }
+}

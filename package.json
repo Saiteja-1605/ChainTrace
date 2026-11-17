@@ -1,0 +1,32 @@
+{
+  "name": "chaintrace-root",
+  "version": "1.0.0",
+  "description": "ChainTrace – Blockchain-Based Supply Chain Tracking and Traceability System",
+  "scripts": {
+    "dev": "node start-all.js",
+    "start": "node start-all.js",
+    "setup:all": "npm install && cd blockchain && npm install && cd ../backend && npm install && cd ../frontend && npm install",
+    "test:contract": "cd blockchain && npx hardhat test",
+    "chain": "cd blockchain && npx hardhat node",
+    "deploy:local": "cd blockchain && npx hardhat run scripts/deploy.js --network localhost",
+    "test": "node test-all.js",
+    "deploy:sepolia": "cd blockchain && npm run deploy:sepolia",
+    "seed": "cd backend && node src/scripts/seed.js",
+    "backend": "cd backend && npm start",
+    "frontend": "cd frontend && npm run dev"
+  },
+  "keywords": [
+    "blockchain",
+    "supply-chain",
+    "traceability",
+    "solidity",
+    "hardhat",
+    "ethereum",
+    "react",
+    "vite",
+    "tailwind",
+    "ethers"
+  ],
+  "author": "Saiteja (Saiteja-1605)",
+  "license": "MIT"
+}
